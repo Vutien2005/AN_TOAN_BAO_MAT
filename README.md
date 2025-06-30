@@ -1,4 +1,4 @@
-# Secure File Transfer Web
+# Secure File Transfer
 
 ## Giới thiệu
 
